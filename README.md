@@ -193,10 +193,10 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/fibonacci`][@stdlib/math/base/special/fibonacci]</span><span class="delimiter">: </span><span class="description">compute the nth Fibonacci number.</span>
--   <span class="package-name">[`@stdlib/math/iter/sequences/lucas`][@stdlib/math/iter/sequences/lucas]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a Lucas sequence.</span>
--   <span class="package-name">[`@stdlib/math/iter/sequences/negafibonacci`][@stdlib/math/iter/sequences/negafibonacci]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a negaFibonacci sequence.</span>
--   <span class="package-name">[`@stdlib/math/iter/sequences/nonfibonacci`][@stdlib/math/iter/sequences/nonfibonacci]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a non-Fibonacci integer sequence.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/fibonacci`][@stdlib/math/base/special/fibonacci]</span><span class="delimiter">: </span><span class="description">compute the nth Fibonacci number.</span>
+-   <span class="package-name">[`@stdlib/math-iter/sequences/lucas`][@stdlib/math/iter/sequences/lucas]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a Lucas sequence.</span>
+-   <span class="package-name">[`@stdlib/math-iter/sequences/negafibonacci`][@stdlib/math/iter/sequences/negafibonacci]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a negaFibonacci sequence.</span>
+-   <span class="package-name">[`@stdlib/math-iter/sequences/nonfibonacci`][@stdlib/math/iter/sequences/nonfibonacci]</span><span class="delimiter">: </span><span class="description">create an iterator which generates a non-Fibonacci integer sequence.</span>
 
 </section>
 
