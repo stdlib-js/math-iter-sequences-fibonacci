@@ -84,7 +84,7 @@ with seed values `F_0 = 0` and `F_1 = 1`.
 ## Usage
 
 ```javascript
-import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@esm/index.mjs';
+import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@v0.2.0-esm/index.mjs';
 ```
 
 #### iterFibonacciSeq( \[options] )
@@ -165,7 +165,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@esm/index.mjs';
+import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@v0.2.0-esm/index.mjs';
 
 // Create an iterator:
 var it = iterFibonacciSeq();
