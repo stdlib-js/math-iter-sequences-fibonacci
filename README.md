@@ -84,6 +84,11 @@ with seed values `F_0 = 0` and `F_1 = 1`.
 ## Usage
 
 ```javascript
+import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-iter-sequences-fibonacci/tags). For example,
+
+```javascript
 import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@v0.2.1-esm/index.mjs';
 ```
 
@@ -165,7 +170,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@v0.2.1-esm/index.mjs';
+import iterFibonacciSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-fibonacci@esm/index.mjs';
 
 // Create an iterator:
 var it = iterFibonacciSeq();
